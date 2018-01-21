@@ -1,0 +1,4 @@
+%{
+  "predicate_sigil": {:hex, :predicate_sigil, "0.1.0", "6d2fa62750299f5ff3788deb3ad686564b99cce2c860882182622853e8da6457", [:mix], [], "hexpm"},
+  "shorter_maps": {:hex, :shorter_maps, "2.2.5", "77b2e3632a49c72ca8aea2a47687767b3ad2623b9ade529ffe31f41865a32886", [:mix], [], "hexpm"},
+}
